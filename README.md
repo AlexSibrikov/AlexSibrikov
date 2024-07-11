@@ -3,6 +3,7 @@
 I'm an entrepreneur passionate about AI technologies and C++ programming.
 
 I'm currently exploring the potential of AI recommendation algorithms for b2b implementation.
+____
 
 My past experience
 - Co-founder at ngrow.ai – An AI-driven Customer Engagement Platform. (Y Combinator W22)
