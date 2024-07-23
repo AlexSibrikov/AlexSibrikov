@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlexSibrikov
 
-I'm an entrepreneur passionate about AI technologies and C++ programming.
+I'm an entrepreneur passionate about SAAS, AI technologies and C++ programming.
 
 I'm currently exploring the potential of AI recommendation algorithms for b2b implementation.
 ____
