@@ -1,4 +1,4 @@
-👋 Hi, I’m @AlexSibrikov
+### About
 
 I'm an entrepreneur passionate about SaaS, AI technologies, and C++ programming.
 
