@@ -7,7 +7,7 @@ ____
 
 My past experience
 - Co-founder at ngrow.ai – An AI-driven Customer Engagement Platform. (Y Combinator W22)
-- Product Manager at AppMetrica.Yandex – One of the top 5 global analytics platforms for mobile applications.
+- Product Manager at AppMetrica.Yandex – with my participation AppMetrica has entered the top 5 global analytical platforms for mobile applications.
 
 Contact
 - Telegram: @sibrikov
