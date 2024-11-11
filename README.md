@@ -1,14 +1,11 @@
 👋 Hi, I’m @AlexSibrikov
 
-I'm an entrepreneur passionate about SAAS, AI technologies and C++ programming.
+I'm an entrepreneur passionate about SaaS, AI technologies, and C++ programming.
 
-I'm currently exploring the potential of AI recommendation algorithms for b2b implementation.
+Currently, I'm exploring the potential of AI recommendation algorithms for B2B applications.
+
 ____
 
-My past experience
-- Co-founder at ngrow.ai – An AI-driven Customer Engagement Platform. (Y Combinator W22)
-- Product Manager at AppMetrica.Yandex – with my participation AppMetrica has entered the top 5 global analytical platforms for mobile applications.
-
-Contact
-- Telegram: @sibrikov
-- Email: alexander.sibrikov at gmail
+### My Past Experience
+- **Co-founder at ngrow.ai** – An AI-driven customer engagement platform. (Y Combinator W22)
+- **Product Manager at AppMetrica.Yandex** – With my contribution, AppMetrica became one of the top 5 global analytics platforms for mobile applications.
